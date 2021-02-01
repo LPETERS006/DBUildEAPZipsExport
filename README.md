@@ -1,2 +1,3 @@
 # DBUildEAPZipsExport
-Build standard eap zips without modifications. 
+Dockerfile 4 building standard eap-zip's without modifications. 
+
